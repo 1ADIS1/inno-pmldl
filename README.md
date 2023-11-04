@@ -2,7 +2,7 @@
 
 #### Vitaliy Alifanov, B21-AI
 
-#### Download data and models on my [Google Drive](https://drive.google.com/drive/folders/1q-axldFHOa77Q3llDbpRfcxZQdM8Zidt?usp=drive_link)
+#### Download data and models from my [Google Drive](https://drive.google.com/drive/folders/1q-axldFHOa77Q3llDbpRfcxZQdM8Zidt?usp=drive_link)
 
 ## Task description
 
