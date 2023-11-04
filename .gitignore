@@ -1,5 +1,9 @@
 # Prevent git pushing data to the repository
-/data/
+/data/external
+/data/interim
+/data/raw
 
-# 
-/models/
+# Do not add models
+/models/facebook
+/models/RUCAIBox
+/models/t5-base_best
