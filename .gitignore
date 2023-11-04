@@ -1,0 +1,5 @@
+# Prevent git pushing data to the repository
+data/
+
+# 
+models/
