@@ -1,6 +1,8 @@
 # Practical Machine Learning and Deep Learning - Assignment 1 - Text De-toxification
 
-## Vitaliy Alifanov, B21-AI
+#### Vitaliy Alifanov, B21-AI
+
+#### Download data and models on my [Google Drive](https://drive.google.com/drive/folders/1q-axldFHOa77Q3llDbpRfcxZQdM8Zidt?usp=drive_link)
 
 ## Task description
 
